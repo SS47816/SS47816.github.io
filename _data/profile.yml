@@ -23,35 +23,42 @@ social:
 experience: # Remove for hiding the experience section
   - start: Aug 2020
     end: current
-    experience : National University of Singapore, Project Engineer
+    company : National University of Singapore
+    position : Project Engineer
   - start: May 2020
     end: Jul 2020
-    experience : National University of Singapore, Undergraduate Student Researcher
+    company : National University of Singapore
+    position : Undergraduate Student Researcher
   - start: July 2019
     end: Dec 2019
-    experience : Micron Technology, Bachelor Thesis Intern
+    company : Micron Technology
+    position : Bachelor Thesis Intern
   - start: Jun 2019
     end: Jan 2019
-    experience : Micron Technology, Autonomous Vehicle Intern
+    company : Micron Technology
+    position : Autonomous Vehicle Intern
   - start: May 2018
     end: Aug 2018
-    experience : Singapore-ETH Centre, Research Intern
+    company : Singapore-ETH Centre
+    position : Research Intern
 
 education: # Remove for hiding the experience section
-  - start: Aug 2020
-    end: current
-    experience : National University of Singapore, 
-  - start: May 2020
-    end: Jul 2020
-    experience : National University of Singapore, Undergraduate
+  - start: Aug 2021
+    end: May 2025
+    company : National University of Singapore
+    position : Doctor of Philosophy, Robotics
+  - start: Aug 2016
+    end: May 2020
+    company : National University of Singapore
+    position : Bachelor of Engineering, Mechanical Engineering
 
 interests: # Remove for hiding the interests section
   - Interest 1
   - Interest 2
 
+awards: # Remove for hiding the awards section
+  - "This is an award I got"
+
 # skills: # Remove for hiding the skills section
 #   - skill: HTML5 & CSS
 #     value: 85  # Percent value
-
-awards: # Remove for hiding the awards section
-  - "This is an award I got"
