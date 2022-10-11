@@ -1,33 +1,57 @@
-image: assets/img/smile.png
-username: Christoph Jabs
-description: creator of the Grape-Academic-Theme! Grape-Academic-Theme is a modification of the Grape-Theme by naye0ng, making it more suitable as an academic portfolio.
-webpage: https://chrjabs.github.io
-experience: # Remove for hiding the experience section
-  - start: 2017-05-03
-    end: 2018-05-06
-    experience : company name, title
-interests: # Remove for hiding the interests section
-  - Interest 1
-  - Interest 2
-skills: # Remove for hiding the skills section
-  - skill: HTML5 & CSS
-    value: 85  # Percent value
+image: assets/img/avatar.png
+username: Shuo SUN
+description: Ph.D. Candidate & Robotics Engineer @ Advanced Robotics Centre (ARC), National University of Singapore (NUS)
+webpage: https://ss47816.github.io
 social:
-  email:  # Full email address, e.g. "sample@google.com"
-  orcid: 
+  email: shuo.sun@u.nus.edu # Full email address, e.g. "sample@google.com"
+  orcid: 0000-0002-8432-0452
   scholar: 
   publons: 
   research_gate: 
   dblp:  # Full URL
   semantic_scholar:  # Full URL
-  linkedin:  # Full URL 
-  github: chrjabs
+  linkedin: https://www.linkedin.com/in/shuosunss/ # Full URL 
+  github: ss47816
   gitlab: 
-  bitbucket: chrjabs
-  google_plus:
-  twitter: chrjabs
+  bitbucket: 
+  google_plus: 
+  twitter: 
   youtube:
   facebook:
   instagram:
+
+experience: # Remove for hiding the experience section
+  - start: Aug 2020
+    end: current
+    experience : National University of Singapore, Project Engineer
+  - start: May 2020
+    end: Jul 2020
+    experience : National University of Singapore, Undergraduate Student Researcher
+  - start: July 2019
+    end: Dec 2019
+    experience : Micron Technology, Bachelor Thesis Intern
+  - start: Jun 2019
+    end: Jan 2019
+    experience : Micron Technology, Autonomous Vehicle Intern
+  - start: May 2018
+    end: Aug 2018
+    experience : Singapore-ETH Centre, Research Intern
+
+education: # Remove for hiding the experience section
+  - start: Aug 2020
+    end: current
+    experience : National University of Singapore, 
+  - start: May 2020
+    end: Jul 2020
+    experience : National University of Singapore, Undergraduate
+
+interests: # Remove for hiding the interests section
+  - Interest 1
+  - Interest 2
+
+# skills: # Remove for hiding the skills section
+#   - skill: HTML5 & CSS
+#     value: 85  # Percent value
+
 awards: # Remove for hiding the awards section
   - "This is an award I got"
