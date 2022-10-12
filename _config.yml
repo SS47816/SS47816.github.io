@@ -54,10 +54,10 @@ bootstrap:
 scholar:
   bibliography: publications.bib
   bibliography_template: pubstemplate
-  style: apa
+  style: ieee
   locale: en
-  last_name: Me
-  first_name: [Myself, M.]
+  last_name: Sun
+  first_name: [Shuo, S.]
   sort_by: year,month
   order: descending,ascending
 
