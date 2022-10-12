@@ -78,18 +78,19 @@
   <h1 class="title">Publications</h1>
   <h2 class="bibliography">2022</h2>
 <ol class="bibliography"><li><!-- Entry bib key -->
-<div id="FISS">
+<div id="shuo:2022:fiss">
   
   <!-- Title -->
   <div class="title">FISS: A Trajectory Planning Framework Using Fast Iterative Search and Sampling Strategy for Autonomous Driving</div>
   <!-- Author -->
-  <div class="author">Sun, Shuo,&nbsp;Liu, Zhiyang,&nbsp;Yin, Huan,&nbsp;and Ang, Marcelo H.
+  <div class="author">
+            <em>Sun, Shuo</em>,&nbsp;Liu, Zhiyang,&nbsp;Yin, Huan,&nbsp;and Ang, Marcelo H.
   </div>
 
   <!-- Journal/Book title and date -->
   
   <div class="third-line">
-    IEEE Robotics and Automation Letters, vol. 7, pp. 9985-9992, Oct, 2022
+    IEEE Robotics and Automation Letters (RA-L), vol. 7, pp. 9985-9992, Oct, 2022
   </div>
 
   <!-- Links/Buttons -->
@@ -97,6 +98,7 @@
       [<a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>]
       [<a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>]
       [<a href="https://github.com/SS47816/fiss_planner" class="btn btn-sm z-depth-0" role="button">Code</a>]
+      [<a href="https://youtu.be/jzRzVJsofPU" class="btn btn-sm z-depth-0" role="button">URL</a>]
       [<a href="http://doi.org/10.1109/LRA.2022.3191940" class="btn btn-sm z-depth-0" role="button">DOI</a>]
   </div>
 
@@ -105,9 +107,9 @@
       <p>Trajectory planning is a critical component in autonomous vehicles directly responsible for driving safety and efficiency during deployment. The ability to find the optimal trajectory in real-time is critical for autonomous driving. This paper presents a novel general framework using the Fast Iterative Search and Sampling (FISS) strategy for sampling-based trajectory planning, which can find the optimal trajectory from an enormous number of candidates with high efficiency in real-time. Specifically, before generating any trajectories, the proposed method utilizes historical planning results as prior information in heuristics to estimate the cost distribution over the sampling space. On this basis, the Fast Iterative Search and Sampling strategy is employed to explore the sampling space for possible candidates and generate trajectories for verification during the search process. Experimental results show that our method can significantly outperform existing frameworks by order of magnitude in planning efficiency while ensuring safety and maintaining high accuracy.</p>
     </div><!-- Hidden bibtex block -->
     <div class="bibtex hidden">
-      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">FISS</span><span class="p">,</span>
+      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">shuo:2022:fiss</span><span class="p">,</span>
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Sun, Shuo and Liu, Zhiyang and Yin, Huan and Ang, Marcelo H.}</span><span class="p">,</span>
-  <span class="na">journal</span> <span class="p">=</span> <span class="s">{IEEE Robotics and Automation Letters}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{IEEE Robotics and Automation Letters (RA-L)}</span><span class="p">,</span>
   <span class="na">title</span> <span class="p">=</span> <span class="s">{FISS: A Trajectory Planning Framework Using Fast Iterative Search and Sampling Strategy for Autonomous Driving}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2022}</span><span class="p">,</span>
   <span class="na">volume</span> <span class="p">=</span> <span class="s">{7}</span><span class="p">,</span>
@@ -117,6 +119,79 @@
   <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1109/LRA.2022.3191940}</span><span class="p">,</span>
   <span class="na">issn</span> <span class="p">=</span> <span class="s">{2377-3766}</span><span class="p">,</span>
   <span class="na">month</span> <span class="p">=</span> <span class="nv">oct</span><span class="p">,</span>
+  <span class="na">url</span> <span class="p">=</span> <span class="s">{https://youtu.be/jzRzVJsofPU}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+    </div>
+</div></li>
+<li><!-- Entry bib key -->
+<div id="yifan:2022:itsc">
+  
+  <!-- Title -->
+  <div class="title">Exploring the Effect of 3D Object Removal using Deep Learning for LiDAR-based Mapping and Long-term Vehicular Localization</div>
+  <!-- Author -->
+  <div class="author">Chen, Yifan,&nbsp;
+            <em>Sun, Shuo</em>,&nbsp;Yin, Huan,&nbsp;and Ang, Marcelo H.
+  </div>
+
+  <!-- Journal/Book title and date -->
+  
+  <div class="third-line">
+    In The 25th IEEE International Conference on Intelligent Transportation Systems (ITSC), Workshop on Vehicular Positioning Technologies and Methods, Oct, 2022
+  </div>
+
+  <!-- Links/Buttons -->
+  <div class="links">
+      [<a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>]
+      [<a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>]
+  </div>
+
+  <!-- Hidden abstract block -->
+    <div class="abstract hidden">
+      <p>The construction of a 3D point cloud map for long-term vehicle localization has always been a challenge in the autonomous driving community. In a highly dynamic urban environment, Simultaneous Localization and Mapping (SLAM) systems can be heavily affected by non-permanent objects and features during the mapping process, leaving undesired noise in the final map, which is redundant for long-term application. This paper explores applying object detection neural networks in SLAM systems to reduce the effect of dynamic objects (e.g., vehicles, pedestrians, cyclists). Specifically, we use PointPillars to detect and remove objects first and then perform LOAM to achieve a more static mapping. In the experimental section, the proposed method is validated on the public KITTI Odometry dataset. Compared with the original LOAM, the proposed method can provide a static point cloud map, thus improving the robustness of long-term vehicle applications.</p>
+    </div><!-- Hidden bibtex block -->
+    <div class="bibtex hidden">
+      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">yifan:2022:itsc</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Chen, Yifan and Sun, Shuo and Yin, Huan and Ang, Marcelo H.}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Exploring the Effect of 3D Object Removal using Deep Learning for LiDAR-based Mapping and Long-term Vehicular Localization}</span><span class="p">,</span>
+  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{The 25th IEEE International Conference on Intelligent Transportation Systems (ITSC), Workshop on Vehicular Positioning Technologies and Methods}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2022}</span><span class="p">,</span>
+  <span class="na">month</span> <span class="p">=</span> <span class="nv">oct</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+    </div>
+</div></li>
+<li><!-- Entry bib key -->
+<div id="shuo:2022:icarcv">
+  
+  <!-- Title -->
+  <div class="title">Autonomous Research Platform for Cleaning Operations in Mixed Indoor & Outdoor Environments</div>
+  <!-- Author -->
+  <div class="author">
+            <em>Sun, Shuo</em>,&nbsp;Zhang, Tangyike,&nbsp;Xiang, Zhihai,&nbsp;Han, Yuhang,&nbsp;Li, Dongen,&nbsp;Li, Jianghao,&nbsp;Liu, Zhiyang,&nbsp;and Ang, Marcelo H.
+  </div>
+
+  <!-- Journal/Book title and date -->
+  
+  <div class="third-line">
+    In The 17th International Conference on Control, Automation, Robotics and Vision (ICARCV), Dec, 2022
+  </div>
+
+  <!-- Links/Buttons -->
+  <div class="links">
+      [<a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>]
+      [<a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>]
+  </div>
+
+  <!-- Hidden abstract block -->
+    <div class="abstract hidden">
+      <p>In recent years, following the advances in autonomous driving technology, low-speed autonomous service vehicles such as delivery, patrolling, and road-cleaning vehicles have started to emerge. As a promising future cleaning solution, autonomous cleaning vehicles are expected to address the workforce shortage many countries face in the near future. This paper describes the detailed design of an autonomous research platform for cleaning operations in mixed indoor & outdoor environments. An electric manual vacuum sweeper is retrofitted into an autonomous sweeper equipped with the Drive-by-Wire (DBW) system, computer, sensors, and actuators essential for autonomous driving. A complete autonomous driving software stack is also developed upon this hardware setup to enable the vehicle to navigate itself safely in various challenging operating environments. The system has been extensively tested in different environments on the National University of Singapore (NUS) campus, including private roads, car parks, warehouses, and public plaza areas.</p>
+    </div><!-- Hidden bibtex block -->
+    <div class="bibtex hidden">
+      <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@inproceedings</span><span class="p">{</span><span class="nl">shuo:2022:icarcv</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Sun, Shuo and Zhang, Tangyike and Xiang, Zhihai and Han, Yuhang and Li, Dongen and Li, Jianghao and Liu, Zhiyang and Ang, Marcelo H.}</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{Autonomous Research Platform for Cleaning Operations in Mixed Indoor &amp; Outdoor Environments}</span><span class="p">,</span>
+  <span class="na">booktitle</span> <span class="p">=</span> <span class="s">{The 17th International Conference on Control, Automation, Robotics and Vision (ICARCV)}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2022}</span><span class="p">,</span>
+  <span class="na">month</span> <span class="p">=</span> <span class="nv">dec</span><span class="p">,</span>
 <span class="p">}</span></code></pre></figure>
     </div>
 </div></li></ol>
