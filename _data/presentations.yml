@@ -1,11 +1,21 @@
 - presentation:
-    title: A nice presentation
-    event: Fancy conference
-    date: 05/2022
-    comment: This is some comment text that can do _Markdown_
-    slides: https://www.google.com # potential link to slides
-    hub: example-hub # potential hub page to link to
+    title: "FISS: A Trajectory Planning Framework Using Fast Iterative Search and Sampling Strategy for Autonomous Driving"
+    event: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+    date: Oct 2022
+    comment: "Accepted by RA-L 2022 and invited for oral presentation at IROS 2022"
+    slides: https://youtu.be/jzRzVJsofPU # potential link to slides
+    # hub: example-hub # potential hub page to link to
+
 - presentation:
-    title: A second presentation
-    event: Another conference
-    date: 03/2022
+    title: Exploring the Effect of 3D Object Removal using Deep Learning for LiDAR-based Mapping and Long-term Vehicular Localization
+    event: The 25th IEEE International Conference on Intelligent Transportation Systems (ITSC)
+    date: Oct 2022
+    comment: Presented at the Workshop on Vehicular Positioning Technologies and Methods
+    slides: 
+
+- presentation:
+    title: Design of an Autonomous Sweeper for Challenging Mixed-operation Environments
+    event: NVIDIA GPU Technology Conference (NVIDIA GTC)
+    date: Mar 2022
+    comment: 
+    slides: 

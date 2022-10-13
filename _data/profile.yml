@@ -76,8 +76,8 @@ skills: # Remove for hiding the skills section
   - skill: Python
     value: 85  # Percent value
   - skill: Deep Learning
-    value: 85  # Percent value
+    value: 70  # Percent value
   - skill: Computer Vision
-    value: 85  # Percent value
+    value: 70  # Percent value
   - skill: UAV Design
     value: 85  # Percent value
