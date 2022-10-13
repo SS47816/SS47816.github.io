@@ -53,8 +53,9 @@ education: # Remove for hiding the experience section
     position : Bachelor of Engineering, Mechanical Engineering
 
 interests: # Remove for hiding the interests section
-  - Interest 1
-  - Interest 2
+  - Robotics
+  - Autonomous Driving
+  - Autonomous Driving
 
 awards: # Remove for hiding the awards section
   - "This is an award I got"

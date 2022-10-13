@@ -14,7 +14,7 @@ lang: en
 # Search engine optimization settings
 title: Shuo SUN's portfolio
 tagline: A jekyll theme for academic portfolios
-description: The demonstration page for the Grape Academic Theme, a jekyll theme for academic portfolios based on the Grape Theme.
+description: Shuo SUN's portfolio.
 author: Shuo SUN (SS47816)
 twitter:
   username: SS47816
@@ -29,7 +29,6 @@ locale: en_GB
 # Page Settings
 theme_settings:
   title: Grape Academic Theme
-
   education_title: EDUCATION
   experience_title: WORK EXPERIENCE
   interests_title: RESEARCH INTERESTS
