@@ -7,6 +7,22 @@
 </li>
 {% endif %}
 
+{% if social.linkedin %}
+<li>
+  <a href="{{ social.linkedin }}" target="_blank" title="Linkedin">
+    <i class="fab fa-linkedin"></i>
+  </a>
+</li>
+{% endif %}
+
+{% if social.github %}
+<li>
+  <a href="https://github.com/{{ social.github }}" target="_blank" title="Github">
+    <i class="fab fa-github"></i>
+  </a>
+</li>
+{% endif %}
+
 {% if social.orcid %}
 <li>
   <a href="https://orcid.org/{{ social.orcid }}" target="_blank" title="ORCID">
@@ -51,22 +67,6 @@
 <li>
   <a href="{{ social.semantic_scholar }}/" target="_blank" title="Semantic Scholar">
     <i class="ai ai-semantic-scholar"></i>
-  </a>
-</li>
-{% endif %}
-
-{% if social.linkedin %}
-<li>
-  <a href="{{ social.linkedin }}" target="_blank" title="Linkedin">
-    <i class="fab fa-linkedin"></i>
-  </a>
-</li>
-{% endif %}
-
-{% if social.github %}
-<li>
-  <a href="https://github.com/{{ social.github }}" target="_blank" title="Github">
-    <i class="fab fa-github"></i>
   </a>
 </li>
 {% endif %}

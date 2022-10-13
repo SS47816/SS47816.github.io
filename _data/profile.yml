@@ -4,14 +4,14 @@ description: Ph.D. Candidate & Robotics Engineer @ Advanced Robotics Centre (ARC
 webpage: https://ss47816.github.io
 social:
   email: shuo.sun@u.nus.edu # Full email address, e.g. "sample@google.com"
+  linkedin: https://www.linkedin.com/in/shuosunss/ # Full URL 
+  github: ss47816
   orcid: 0000-0002-8432-0452
   scholar: 
   publons: 
   research_gate: 
   dblp:  # Full URL
   semantic_scholar:  # Full URL
-  linkedin: https://www.linkedin.com/in/shuosunss/ # Full URL 
-  github: ss47816
   gitlab: 
   bitbucket: 
   google_plus: 
@@ -25,32 +25,39 @@ experience: # Remove for hiding the experience section
     end: current
     company : National University of Singapore
     position : Project Engineer
+    description: 
   - start: May 2020
     end: Jul 2020
     company : National University of Singapore
     position : Undergraduate Student Researcher
+    description: 
   - start: July 2019
     end: Dec 2019
     company : Micron Technology
     position : Bachelor Thesis Intern
+    description: 
   - start: Jun 2019
     end: Jan 2019
     company : Micron Technology
     position : Autonomous Vehicle Intern
+    description: 
   - start: May 2018
     end: Aug 2018
     company : Singapore-ETH Centre
     position : Research Intern
+    description: 
 
 education: # Remove for hiding the experience section
   - start: Aug 2021
     end: May 2025
     company : National University of Singapore
     position : Doctor of Philosophy, Robotics
+    description: "Supervisor: Professor Marcelo H. Ang Jr."
   - start: Aug 2016
     end: May 2020
     company : National University of Singapore
-    position : Bachelor of Engineering, Mechanical Engineering
+    position : Bachelor of Engineering (Honours), Mechanical Engineering
+    description: Second Major in innovation & Design (iDP), Science & Technology Undergraduate Scholarship (2016 - 2020)
 
 interests: # Remove for hiding the interests section
   - Robotics
@@ -59,12 +66,11 @@ interests: # Remove for hiding the interests section
   - Simultaneous Localization and Mapping
 
 awards: # Remove for hiding the awards section
-  - "DCP/iDP Certificate(National University of Singapore, 2020)"
+  - "innovation & Design Programme (iDP) Certificate (National University of Singapore, 2020)"
   - "Sensor Fusion Nano-degree (Udacity, 2020)"
   - "C++ Nano-degree (Udacity, 2020)"
   - "Self-Driving Car Nano-degree (Udacity, 2019)"
   - "Solid Edge ST10 Certified Professional (Siemens, 2018)"
-  - "Science & Technology Undergraduate Scholarship (National University of Singapore, 2016)"
   - "Certificate of Commendation (Ministry of Education, 2016)"
 
 # skills: # Remove for hiding the skills section

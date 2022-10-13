@@ -4,8 +4,9 @@
     {% for edu in site.data.profile.education %}
     <li class="meta">
       <p class="date">{{ edu.start }} &ndash; {{ edu.end }}</p>
-      <p class="description">{{ edu.company }}</p>
-      <p class="description">{{ edu.position }}</p>
+      <p class="company">{{ edu.company }}</p>
+      <p class="position">{{ edu.position }}</p>
+      <p class="description">{{ edu.description }}</p>
     </li>
     {% endfor %}
   </ul>

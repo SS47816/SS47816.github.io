@@ -95,8 +95,17 @@
             font-size: 0.75rem;
             color: rgba(0, 0, 0, 0.5);
           }
-          .description {
+          .company {
             font-size: 1rem;
+            color: rgba(0, 0, 0, 0.9);
+          }
+          .position {
+            font-size: 0.9rem;
+            color: rgba(0, 0, 0, 0.9);
+          }
+          .description {
+            font-size: 0.75rem;
+            color: rgba(0, 0, 0, 0.5);
           }
         }
         li.meta::before {
