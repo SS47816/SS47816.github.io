@@ -55,10 +55,17 @@ education: # Remove for hiding the experience section
 interests: # Remove for hiding the interests section
   - Robotics
   - Autonomous Driving
-  - Autonomous Driving
+  - Motion and Path Planning
+  - Simultaneous Localization and Mapping
 
 awards: # Remove for hiding the awards section
-  - "This is an award I got"
+  - "DCP/iDP Certificate(National University of Singapore, 2020)"
+  - "Sensor Fusion Nano-degree (Udacity, 2020)"
+  - "C++ Nano-degree (Udacity, 2020)"
+  - "Self-Driving Car Nano-degree (Udacity, 2019)"
+  - "Solid Edge ST10 Certified Professional (Siemens, 2018)"
+  - "Science & Technology Undergraduate Scholarship (National University of Singapore, 2016)"
+  - "Certificate of Commendation (Ministry of Education, 2016)"
 
 # skills: # Remove for hiding the skills section
 #   - skill: HTML5 & CSS

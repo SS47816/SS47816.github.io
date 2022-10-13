@@ -12,13 +12,13 @@ blog: False
 lang: en
 
 # Search engine optimization settings
-title: Shuo SUN's portfolio
-tagline: A jekyll theme for academic portfolios
-description: Shuo SUN's portfolio.
+title: Shuo SUN's Portfolio
+tagline: Shuo SUN's Portfolio
+description: Ph.D. Candidate & Robotics Engineer @ Advanced Robotics Centre (ARC), National University of Singapore (NUS)
 author: Shuo SUN (SS47816)
 twitter:
   username: SS47816
-  card: A jekyll theme for academic portfolios
+  card: Ph.D. Candidate & Robotics Engineer @ Advanced Robotics Centre (ARC), National University of Singapore (NUS)
 logo: /assets/img/avatar.png
 social:
   name: Shuo SUN
@@ -33,7 +33,7 @@ theme_settings:
   experience_title: WORK EXPERIENCE
   interests_title: RESEARCH INTERESTS
   skills_title: SKILLS
-  awards_title: AWARDS
+  awards_title: AWARDS & CERTIFICATIONS
   projects_title: PROJECTS
   recentpubs_title: RECENT PUBLICATIONS
 
