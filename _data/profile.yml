@@ -51,19 +51,16 @@ education: # Remove for hiding the experience section
   - start: Aug 2021
     end: May 2025
     company : National University of Singapore
-    position : Doctor of Philosophy, Robotics
-    description: "Supervisor: Professor Marcelo H. Ang Jr."
+    position : Doctor of Philosophy
+    description: "• Supervisor: Professor Marcelo H. Ang Jr. <br> • Research Interests: Robotics, Autonomous Driving, Motion and Path Planning"
   - start: Aug 2016
     end: May 2020
     company : National University of Singapore
-    position : Bachelor of Engineering (Honours), Mechanical Engineering
-    description: Second Major in innovation & Design (iDP), Science & Technology Undergraduate Scholarship (2016 - 2020)
+    position : Bachelor of Engineering (Honours)
+    description: "• Double Major in Mechanical Engineering (ME) and innovation & Design (iDP) <br> • Science & Technology Undergraduate Scholarship (2016 - 2020)"
 
 interests: # Remove for hiding the interests section
-  - Robotics
-  - Autonomous Driving
-  - Motion and Path Planning
-  - Simultaneous Localization and Mapping
+  - 
 
 awards: # Remove for hiding the awards section
   - "innovation & Design Programme (iDP) Certificate (National University of Singapore, 2020)"
