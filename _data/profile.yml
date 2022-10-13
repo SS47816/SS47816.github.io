@@ -1,6 +1,6 @@
 image: assets/img/avatar.png
 username: Shuo SUN
-description: Ph.D. Candidate & Robotics Engineer @ Advanced Robotics Centre (ARC), National University of Singapore (NUS)
+description: Ph.D. Candidate & Robotics Engineer <br> @ Advanced Robotics Centre (ARC), National University of Singapore (NUS)
 webpage: https://ss47816.github.io
 social:
   email: shuo.sun@u.nus.edu # Full email address, e.g. "sample@google.com"
@@ -71,13 +71,13 @@ awards: # Remove for hiding the awards section
   - "Certificate of Commendation (Ministry of Education, 2016)"
 
 skills: # Remove for hiding the skills section
-  - skill: C++
+  - skill: Robotics
     value: 85  # Percent value
-  - skill: Python
+  - skill: Programming
     value: 85  # Percent value
   - skill: Deep Learning
-    value: 70  # Percent value
-  - skill: Computer Vision
-    value: 70  # Percent value
+    value: 75  # Percent value
   - skill: UAV Design
-    value: 85  # Percent value
+    value: 80  # Percent value
+  - skill: Mechanical Design
+    value: 75  # Percent value
