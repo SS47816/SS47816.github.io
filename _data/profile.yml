@@ -60,11 +60,10 @@ education: # Remove for hiding the experience section
     description: "• Double Major in Mechanical Engineering (ME) and innovation & Design (iDP) <br> • Science & Technology Undergraduate Scholarship (2016 - 2020)"
 
 interests: # Remove for hiding the interests section
-  - Robotics
-  - Programming
-  - Deep Learning
-  - UAV Design
-  - Mechanical Design
+  - "<b>Robotics</b> : Autonomous Driving, Deep Learning, Computer Vision, Motion Planning, Control"
+  - "<b>Programming</b> : C/C++, Python, Jave, MATLAB, PyTorch, TensorFlow, ROS, OpenCV, PCL, Qt"
+  - "<b>UAV Design</b> : Aerodynamics, Aircraft Stability and Control, Aircraft Structures, Computational Fluid Dynamics"
+  - "<b>Mechanical Design</b> : Finite Element Analysis, CAD/CAM, Abaques, SolidWorks, Solid Edge, Autodesk Fusion 360, Autodesk Inventor"
 
 
 awards: # Remove for hiding the awards section
