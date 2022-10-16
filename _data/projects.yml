@@ -9,7 +9,7 @@
     date: Apr 2020 &ndash; Developing
     title: Autonomous Mini-bus
     summary: Autonomous Mini-bus Project
-    description: Develope a fully autonomous driving system on a mini-bus platform for mobility-on-demand services on NUS campus.
+    description: Developing a fully autonomous driving system on a mini-bus platform for mobility-on-demand services on NUS campus.
     contents:
         - title: Contributions
           description: <li>Responsible for the overall design & development of the autonomous minibus project as the lead engineer</li>
@@ -24,7 +24,7 @@
     date: Apr 2020 &ndash; Developing
     title: Autonomous Road Sweeper
     summary: Autonomous Road Sweeper Project
-    description: Develope a fully autonomous driving system on a road sweeper platform for cleaning operations on NUS campus.
+    description: Developing a fully autonomous driving system on a road sweeper platform for cleaning operations on NUS campus.
     contents:
         - title: Demo
           image:
@@ -68,18 +68,20 @@
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url: https://www.aiaa.org/dbf # Full URL
     image:
-      path: "sweeper.png" # path: assets/project/
+      path: "plane_2.jpeg" # path: assets/project/
       alt: ""
     date: Apr 2018 &ndash; Apr 2019
     title: AIAA Design/Build/Fly Competition 2019
     summary: The 23th American Institute of Aeronautics and Astronautics Design/Build/Fly Competition | Tucson, Arizona
-    description: Develope a fully autonomous driving system on a road sweeper platform for cleaning operations on NUS campus.
+    description: Participated in the AIAA DBF Competition 2019 Finals in Tucson, Arizona.
     contents:
         - title: Contributions
-          # image:
-          #   path: portfolio.png
-          #   alt: "A screenshot of the portfolio page"
-          description: <li>Responsible for the overall design & development of the autonomous road sweeper project as the lead engineer</li>
+          image:
+            path: plane.jpeg
+            alt: ""
+          description: <li>As the team leader, led the NUS UAV Competition Team and participated in the AIAA DBF Competition 2019 Finals in Tucson, Arizona.
+            <li>Led the design of 5 fixed-wing carrier UAV prototypes with different configurations based on the competition rules. Fabricated 3 of the prototypes and tested their performances in given missions.
+            <li>Synthesized a report on the systematic design process of electric-powered, propeller-driven, fixed-wing model aircraft for competition purposes.</li>
 
 
 # - project :
