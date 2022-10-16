@@ -59,8 +59,13 @@ education: # Remove for hiding the experience section
     position : Bachelor of Engineering (Honours)
     description: "• Double Major in Mechanical Engineering (ME) and innovation & Design (iDP) <br> • Science & Technology Undergraduate Scholarship (2016 - 2020)"
 
-# interests: # Remove for hiding the interests section
-#   - 
+interests: # Remove for hiding the interests section
+  - Robotics
+  - Programming
+  - Deep Learning
+  - UAV Design
+  - Mechanical Design
+
 
 awards: # Remove for hiding the awards section
   - "innovation & Design Programme (iDP) Certificate (National University of Singapore, 2020)"
@@ -70,14 +75,14 @@ awards: # Remove for hiding the awards section
   - "Solid Edge ST10 Certified Professional (Siemens, 2018)"
   - "Certificate of Commendation (Ministry of Education, 2016)"
 
-skills: # Remove for hiding the skills section
-  - skill: Robotics
-    value: 85  # Percent value
-  - skill: Programming
-    value: 85  # Percent value
-  - skill: Deep Learning
-    value: 75  # Percent value
-  - skill: UAV Design
-    value: 80  # Percent value
-  - skill: Mechanical Design
-    value: 75  # Percent value
+# skills: # Remove for hiding the skills section
+#   - skill: Robotics
+#     value: 85  # Percent value
+#   - skill: Programming
+#     value: 85  # Percent value
+#   - skill: Deep Learning
+#     value: 75  # Percent value
+#   - skill: UAV Design
+#     value: 80  # Percent value
+#   - skill: Mechanical Design
+#     value: 75  # Percent value
