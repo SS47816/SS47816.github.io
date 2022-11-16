@@ -10,7 +10,7 @@
     event: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
     date: Oct 2022
     comment: "Paper published in RA-L 2022 and invited for oral presentation at IROS 2022"
-    slides: https://youtu.be/jzRzVJsofPU # potential link to slides
+    # slides: https://youtu.be/jzRzVJsofPU # potential link to slides
     # hub: example-hub # potential hub page to link to
 
 - presentation:

@@ -61,7 +61,7 @@ education: # Remove for hiding the experience section
 
 interests: # Remove for hiding the interests section
   - "<b>Robotics</b> : Autonomous Driving, Deep Learning, Computer Vision, Motion Planning, Control"
-  - "<b>Programming</b> : C/C++, Python, Jave, MATLAB, PyTorch, TensorFlow, ROS, OpenCV, PCL, Qt"
+  - "<b>Programming</b> : C/C++, Python, Java, MATLAB, PyTorch, TensorFlow, ROS, OpenCV, PCL, Qt"
   - "<b>UAV Design</b> : Aerodynamics, Aircraft Stability and Control, Aircraft Structures, Computational Fluid Dynamics"
   - "<b>Mechanical Design</b> : Finite Element Analysis, CAD/CAM, Abaques, SolidWorks, Solid Edge, Autodesk Fusion 360, Autodesk Inventor"
 
