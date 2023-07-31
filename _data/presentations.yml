@@ -17,8 +17,9 @@
     title: Exploring the Effect of 3D Object Removal using Deep Learning for LiDAR-based Mapping and Long-term Vehicular Localization
     event: 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)
     date: Oct 2022
-    comment: # Presented at the Workshop on Vehicular Positioning Technologies and Methods
+    comment: 
     slides: 
+    recording: 
 
 - presentation:
     title: Design of an Autonomous Sweeper for Challenging Mixed-operation Environments
